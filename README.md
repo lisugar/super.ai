@@ -1,2 +1,2 @@
 # super.ai
-Super AI 
+Super AI  
